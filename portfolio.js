@@ -163,11 +163,13 @@ export const projects = [
     name: 'Water Vapor (School Group Project)',
     desc: 'With Water Vapor, you can easily find games that are on the steam store for a great price!',
     link: 'https://ades-team-5.netlify.app/',
+    text: 'Demo',
   },
   {
     name: 'Asteroid Destroyer (School Group Project)',
     desc: 'An augmented reality game made using Unity3D',
     link: 'https://drive.google.com/file/d/150NG31p5Ue8472zM-3ih8G53t47hV2zp/view?usp=sharing',
+    text: 'Video',
   },
 ];
 
