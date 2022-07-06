@@ -125,7 +125,7 @@ export const educationInfo = [
     schoolName: 'Singapore Polytechnic',
     subHeader: 'Pursuing Diploma in Information Technology',
     duration: 'June 2021 - Present Date',
-    desc: 'Participated in the research of XXX and published 3 papers.',
+    desc: '',
     descBullets: ['Expected to finish education by June 2024'],
   },
 ];
