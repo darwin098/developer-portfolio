@@ -196,6 +196,8 @@ export const experience: ExperienceType[] = [
 //   },
 // ];
 
+export const feedbacks = false;
+
 // export const feedbacks: FeedbackType[] = [
 //   {
 //     name: "Syed Jamal",
