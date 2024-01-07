@@ -109,7 +109,8 @@ export const skillsSection: SkillsSectionType = {
       title: "Cloud Infra-Architecture",
       lottieAnimationFile: "/lottie/skills/cloudinfra.json", // Path of Lottie Animation JSON File
       skills: [
-        emoji("⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases"),
+        emoji("⚡ Usage of cloud services like AWS, Heroku and Netlify to deploy applications"),
+        emoji("⚡ Dabbled in serverless architecture using AWS Lambda"),
       ],
       softwareSkills: [
         {
@@ -119,6 +120,10 @@ export const skillsSection: SkillsSectionType = {
         {
           skillName: "Heroku",
           iconifyTag: "logos:heroku-icon",
+        },
+        {
+          skillName: "Netlify",
+          iconifyTag: "devicon:netlify",
         },
       ],
     },
