@@ -31,7 +31,11 @@ const ExperienceCard = ({ companyLogo, company, role, date, desc, descBullets }:
             {role}
           </CardSubtitle>
           <CardSubtitle>{date}</CardSubtitle>
-          <CardText tag="div" className="description my-3 text-left">
+          <CardText
+            tag="div"
+            className="description my-3 text-left"
+            style={{ display: "flex", flexDirection: "column", rowGap: "1rem" }}
+          >
             {desc}
             <ul>
               {descBullets
